@@ -4,12 +4,13 @@
 #define BL
 #define BLYNK_TEMPLATE_NAME "Irrigation System"
 
-char auth[] = "PRhlxEsnMLu5fuGZIGmmfoWnq_WTDTf5";
-char ssid[] = "Precious";
-char pass[] = "thom8999";
+//Authentication code
+char auth[] = "";
+char ssid[] = "******"; //Wifi SSID
+char pass[] = "*****";  //Wifi Password
 
 BlynkTimer timer;
-// Rest of your code remains unchanged.
+// Rest of your code remains unchanged
 
 bool Relay = false;
 bool requestThresholdFlag = false;
