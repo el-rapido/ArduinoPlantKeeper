@@ -12,4 +12,4 @@ user-friendly system that enables seamless control and monitoring of the irrigat
 ESP8266 microcontroller. The proposed system should integrate necessary functionalities, such as moisture level readings, watering when plants drop below a set threshold and manual precise watering while ensuring proper safety measures and ease of use 
 for a wide range of applications.
 
-This code uses a ESP8266 microcontroller paired with Blynk IOT platform for the UI side. It also makes use of a few Arduino libraries such as ESP8266WiFi and BlynkSimpleEsp8266.
+This project uses a ESP8266 microcontroller paired with Blynk IOT platform for the UI side. It also makes use of a few Arduino libraries such as ESP8266WiFi and BlynkSimpleEsp8266.
